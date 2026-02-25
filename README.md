@@ -1,0 +1,1 @@
+This model is used to check quality and usage performance of various Medicines and Consumables that are suitable to cure various diseases.Diseases:Arthritis, Diabetes , Hypertension ,Obesity ,Cancer ,Asthma . Medicines uesd: Lipitor ,Ibuprofen ,Aspirin, Paracetamol ,Penicillin .
